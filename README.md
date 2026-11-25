@@ -14,7 +14,7 @@ Estudiante de **Desarrollo de Aplicaciones Web** con interés en crear aplicacio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 
 ## Proyectos
-- **[Proyecto TFG](https://github.com/MarioAguileraBrenes/ProyectoTFG_Grupo4):** [Escribe aquí en una frase qué hace vuestro Proyecto TFG].
+- **[Proyecto TFG](https://github.com/MarioAguileraBrenes/ProyectoTFG_Grupo4):** [TFG formado por el Equipo numero 4].
 
 
 ## Contacto
